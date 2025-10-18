@@ -1,4 +1,4 @@
-#demostrate Git Branches
+# Demostrate Git Branches
 
 first commit.
 second commit.
@@ -8,5 +8,8 @@ fourth commit.
 fifth commit.
 commit in beta branch.
 rename beta branch into demo branch.
-commit demo with no-ff.
+merge demo with no-ff.
 sixth commit.
+seventh commit.
+push to Gitee.
+push local branch to Github.
